@@ -1,0 +1,17 @@
+{
+  "name": "tutorial-bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Azakido",
+  "license": "ISC",
+  "description": "Hi!",
+  "dependencies": {
+    "@discordjs/voice": "^0.7.5",
+    "discord.js": "^13.2.0-dev.1630411689.d16ada9",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
